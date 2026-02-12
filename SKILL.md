@@ -1,12 +1,10 @@
 ---
 name: integral-ecology-assessment
-description: A multi-dimensional framework for analyzing environmental and sustainability
-  decisions through the interconnected lens of ecological, economic, social, cultural,
-  and spiritual dimensions - hearing ...
+description: A multi-dimensional framework for analyzing environmental and sustainability decisions through the interconnected lens of ecological, economic, social, cultural, and spiritual dimensions - hearing ...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - integral-ecology-assessment
 - writing
