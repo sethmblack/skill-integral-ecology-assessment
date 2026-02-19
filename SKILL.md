@@ -4,7 +4,8 @@ description: A multi-dimensional framework for analyzing environmental and susta
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4241
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - integral-ecology-assessment
 - writing
